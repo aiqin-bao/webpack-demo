@@ -1,0 +1,5 @@
+/node_modules
+/npm-debug.log
+/build
+/build.zip
+.DS_store
